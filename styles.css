@@ -94,4 +94,33 @@ body {
     line-height: 32px;
     color: #000000;
   }
+
+  .skill-icons-1 {
+    width: 340px;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  .skill-icons-1 div svg {
+    width: 160px;
+    height: 160px;
+    border: 2px solid black;
+  }
+
+  .skill-icons-2 {
+    width: 340px;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .skill-icons-2 div svg {
+    width: 160px;
+    height: 160px;
+    border: 2px solid black;
+  }
 }
